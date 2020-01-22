@@ -20,9 +20,6 @@ public class Process extends Exception{
 		try {
 		Scanner sc = new Scanner(System.in);
 		Book b = new Book();
-		//System.out.println("Enter Serial No of Book:");
-		//b.setsN0(sc.nextInt());
-
 		logger.info("Enter Book Name:");
 		b.setBookName(sc.nextLine());
 
