@@ -1,6 +1,5 @@
 package com.libpackage;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
